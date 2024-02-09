@@ -1,11 +1,11 @@
 {
-    "name": "queracollege/string-utils",
+    "name": "fatemehmoghaddam/string-utils",
     "description": "Simple string utils for dealing easier with them",
     "keywords": [
         "string",
         "utils"
     ],
-    "homepage": "https://github.com/queracollege/string-utils",
+    "homepage": "https://github.com/fatemehmoghaddam/string-utils",
     "license": "MIT",
     "type": "library",
     "require": {
